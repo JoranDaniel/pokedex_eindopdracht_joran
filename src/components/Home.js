@@ -62,7 +62,7 @@ function Home() {
       <h1>Pokedex</h1>
       
       <a href="/contact">
-      <button className='buttonrouting'>Contact</button>
+      <button className='buttonrouting'>Klik hier om te zoeken..</button>
     </a>
    
       <ul>
