@@ -91,5 +91,5 @@ function Home() {
     </div>
   );
 }
-
+// Path: src\components\Home.css
 export default Home;
